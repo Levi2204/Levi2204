@@ -1,4 +1,4 @@
-<h4 align="left">-Estudante de Análise e desenvolvimento de sistemas<br><br>-Atualmente focando o estudo em Java e Flask</h4>
+<h4 align="left">-Estudante de Análise e desenvolvimento de sistemas<br><br>-Atualmente focando o estudo em Java e Python</h4>
 
 ###
 
